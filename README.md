@@ -10,8 +10,8 @@ Profile Assignment project is an assignment for Homework 2 Thematic Academy Fron
 
 To begin using this project, choose one of the following options to get started:
 
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-stylish-portfolio.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio)
+* Clone the repo: `git clone https://github.com/id-prawito/profile-assignment.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/id-prawito/profile-assignment)
 
 Basic Usage
 
